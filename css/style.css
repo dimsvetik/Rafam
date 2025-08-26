@@ -198,6 +198,11 @@ h3{
     padding: 30px;
 }
 
+.btn-aroma a{
+    color: #D7C46C;    
+    text-transform: none;
+}
+
 .contact-form{
     display: flex;
     flex-direction: column;
