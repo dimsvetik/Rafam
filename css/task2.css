@@ -111,12 +111,12 @@ h3{
 
 .card a{
     font-size: 30px;
-    color: #101010;
+    color: #D7C46C;
     font-weight: 600;
 }
 
 .card a:hover{
-    color: #D7C46C;
+    color: #101010;
 }
 
 .card-body{
